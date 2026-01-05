@@ -10,20 +10,17 @@
 .DS_Store
 *.swp
 *.bin
-
 # Windows
 */Thumbs.db
-
 # VIM
 .ropeproject/*
 *.un~
 *.*~
-
 # Ignore all PyCharm files
 .idea/*
-
 # Ignore profiling dumps
 *.prof
-
 # Testing stuff
 .tox
+# macOS system files
+._*
